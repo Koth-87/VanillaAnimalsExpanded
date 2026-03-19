@@ -178,7 +178,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Rattlesnake</defName>
 		<label>rattlesnake</label>
-		<description>A highly venomous snake, recieving it's name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin.</description>
+		<description>A highly venomous snake, receiving its name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin.</description>
 		<statBases>
 			<MoveSpeed>3.3</MoveSpeed>
 			<MarketValue>200</MarketValue>
